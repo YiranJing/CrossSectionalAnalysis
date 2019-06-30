@@ -1,7 +1,7 @@
 ## QBUS2820ProjctOne 
 Semester 2, 2017 
 
-## House Price Forecasting
+## ML Model Stacking For House Price Forecasting
 - data: A sample of 804 observations of houses sold in 2017, worked with a set of 78 potential predictors.
 - process: 
 - 1) Cleaning data
@@ -11,7 +11,7 @@ Semester 2, 2017
 - 5) Modelling evaluation
 - 6) Further discussion
           
-- results: **Report.pdf**
+- results: - [Report](../HousePricesModelling/Report.pdf) 
 
 
 ## Author
