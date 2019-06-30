@@ -1,7 +1,7 @@
-# QBUS2820ProjctOne 
+## QBUS2820ProjctOne 
 Semester 2, 2017 
 
-## House Price  Forecasting
+## House Price Forecasting
 - data: A sample of 804 observations of houses sold in 2017, worked with a set of 78 potential predictors.
 - process: 
 - 1) Cleaning data
