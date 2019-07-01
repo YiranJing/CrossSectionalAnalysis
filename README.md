@@ -2,4 +2,4 @@
 Statistical and ML models for cross sectional data
 
 ### Project
-- [House Price Modeling Project](../master/HousePricesModelling/Report.pdf) ML Model Stacking for house price forecast
+- [House Price Forecast](../master/HousePricesModelling/Report.pdf) ML Model Stacking for house price forecast
