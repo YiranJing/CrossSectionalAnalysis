@@ -9,7 +9,7 @@ Semester 2, 2017
 - 4) Model evaluation
 - 5) Further discussion
           
-- results: [report](../CustomerResponseClassification/Report.pdf)
+- results: [report](https://github.com/YiranJing/CrossSectionalAnalysis/blob/master/ClassificationAnalyis/CustomerResponseClassification/Report.pdf)
 
 The effect of profit per customer on finnacial statement:
 <img width="770" alt="Screen Shot 2019-06-29 at 9 42 03 pm" src="https://user-images.githubusercontent.com/31234892/60383639-e0567a80-9ab6-11e9-8b9b-31f520552418.png">
